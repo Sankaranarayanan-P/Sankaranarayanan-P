@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sankaranarayanan-P
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Flutter & Data Structure and Algorithms 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me through My Email
 
